@@ -257,6 +257,10 @@ const char* wifi_password = "YOUR_WIFI_PASS";
 4. Computer vision for object detection and classification
 5. Sustainable technology and energy efficiency
 
+## Research Paper
+
+Development and Implementation of an IoT-Based Autonomous Agribot for Precision Farming: [ResearchGate publication](https://www.researchgate.net/publication/398689292_Development_and_Implementation_of_an_IoT-Based_Autonomous_Agribot_for_Precision_Farming)
+
 ## Contributing
 
 This project is intended for academic and research use. Contributions are welcome for hardware improvements, software enhancements, algorithm development, and documentation updates.

@@ -268,10 +268,3 @@ This project is intended for academic and research use. Contributions are welcom
 ## License
 
 This project is open-source and available for academic and research use. Please cite appropriately in academic publications.
-
----
-
-Author: Agricultural Robotics Research Team  
-Version: 1.0 (Phase 1)  
-Last Updated: 2024  
-Contact: Your Research Institution
